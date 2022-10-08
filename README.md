@@ -1,4 +1,4 @@
-# Comfy Sloth- e-commerce website
+# Hacker News Clone
 ## Run Locally
 
 First make sure [Node](https://nodejs.org/en/) is installed in your system.
@@ -6,7 +6,7 @@ First make sure [Node](https://nodejs.org/en/) is installed in your system.
 Clone the project
 
 ```bash
-  git clone https://github.com/DJ081/e-commerce-furniture-store.git
+  git clone https://github.com/DJ081/hacker-news-clone.git
 ```
 
 Then open project directory
